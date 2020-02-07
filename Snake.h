@@ -81,11 +81,4 @@ void changeDirection(char key) {
   };
   
   
-  int main(){
-  Snake snake;
-  snake.changeDirection();
-  snake.void move();
-  snake.void clearScreen();
-  snake.update();
-  return 0;
-  }
+

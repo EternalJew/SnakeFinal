@@ -93,11 +93,4 @@ void initMap()
 		return ' ';
 	}
   };
-  int main(){
-  Map map;
-  map.run();
-  map.initMap();
-  map.printMap();
-  map.getMapValue();
-  return 0;
-  }
+  

@@ -19,9 +19,3 @@ void generateFood() {
 		map[x + y * width] = -2;
 	}
   };
-int main(){
-Food food;
-food.generateFood();
-
-return 0;
-}
